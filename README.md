@@ -33,7 +33,7 @@ One challenging aspect was designing the `drop` and `get` functions to accuratel
 
 3. **Winning and Losing Conditions:** 
    - The game features a health point (HP) system. Each movement (using `go`) reduces HP by 1.
-   - Players start with a maximum HP of 10.
+   - Players start with a maximum HP of 1000.
    - The objective is to find a specific item, termed as "magic wind". 
    - Winning Condition: The player wins if they find the "magic wind" before their HP runs out.
    - Losing Condition: If the player's HP reaches 0 before finding the "magic wind", they lose the game.

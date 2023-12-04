@@ -101,7 +101,7 @@ world_state = create_world_state(game_map)
 current_room = 0
 inventory_items = []
 # change this max HP to test
-HP = 10
+HP = 1000
 # Change the target magic_wind you need.
 magic_wind = "rose"
 display_room(world_state[current_room])
