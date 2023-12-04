@@ -59,7 +59,7 @@ def drop(world_state, current_room, inventory_items, item):
 
 def inventory(inventory_items):
     if inventory_items:
-        print("Inventory:\n", ", ".join(inventory_items))
+        print("Inventory:\n ", ", ".join(inventory_items))
     else:
         print("You're not carrying anything.")
 
