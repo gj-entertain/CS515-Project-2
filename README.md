@@ -6,7 +6,7 @@
 
 ## Repository URL
 
-[https://github.com/your-repo-url]
+[https://github.com/gj-entertain/CS515-Project-2]
 
 ## Time Spent on Project
 
